@@ -47,6 +47,7 @@
 ## Open Source Contributions
 
 Actively contributing to:
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) — AI execution platform
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) — MCP Python SDK
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — MCP Servers
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) — LLM inference engine
