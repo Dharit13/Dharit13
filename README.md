@@ -79,10 +79,6 @@ Actively contributing to:
 
 ---
 
-### Philosophy
-
-> "Ship beats perfect" — Build it, measure it, iterate. The best model is the one in production.
-
 <details>
 <summary>Random Facts</summary>
 
