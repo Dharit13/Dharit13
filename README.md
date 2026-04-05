@@ -31,6 +31,10 @@
 - 🥁 **[Ink Beat Maker](https://github.com/Dharit13/ink-ai-hack-playground-ink-beat-maker)** - A drawable drum machine interface in TypeScript
 - 🛰️ **[omni-mcp](https://github.com/Dharit13/omni-mcp)** - Multimodal MCP server — auto-routes to vision, audio, or text models on local Mac M-series
 - 🏘️ **[Neighborhood Score](https://github.com/Dharit13/neighborhood-score)** - Scores 125+ Bangalore neighborhoods across 17 livability dimensions
+
+## Open Source Contributions
+
+Actively contributing to:
 - 🦞 **[OpenClaw](https://github.com/Dharit13/openclaw)** - Personal AI assistant, any OS, any platform — the lobster way
 - 🧪 **[SDG Hub](https://github.com/Dharit13/sdg_hub)** - Synthetic Data Generation toolkit for LLMs
 - 🔌 **[MCP Servers](https://github.com/Dharit13/servers)** - Model Context Protocol Servers
@@ -55,15 +59,6 @@
 - 🛍️ **[Online Shopping DB](https://github.com/Dharit13/OnlineShoppingwebsite_Database_Design)** - E-commerce database design in PL/pgSQL
 - 🏢 **[HR Operations Manager](https://github.com/Dharit13/JAVA-SWING-HR_Operation_Manager)** - Java Swing HR management app
 - 🏗️ **[Retail Data Warehouse](https://github.com/Dharit13/Retail-_Data_Warehouse)** - Retail data warehouse design
-
-## Open Source Contributions
-
-Actively contributing to:
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) — AI execution platform
-- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) — MCP Python SDK
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — MCP Servers
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) — LLM inference engine
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) — AI Agent Framework
 
 ## What I'm Doing
 
