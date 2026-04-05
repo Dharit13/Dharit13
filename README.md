@@ -15,12 +15,42 @@
 
 ## Current Projects
 
-- 📈 **[QuantPulse](https://github.com/Dharit13/QuantPulse)** - Multi-strategy quantitative trading system
-- 🥁 **[Ink Beat Maker](https://github.com/Dharit13/ink-ai-hack-playground-ink-beat-maker)** - TypeScript drum machine interface
-- 🛰️ **[omni-mcp](https://github.com/Dharit13/omni-mcp)** - Multimodal MCP server for Mac hardware
-- 🏘️ **[Neighborhood Score](https://github.com/Dharit13/neighborhood-score)** - Scoring system for Bangalore housing data
+- 📈 **[QuantPulse](https://github.com/Dharit13/QuantPulse)** - Multi-strategy quantitative trading advisory system — regime-aware signals, adaptive sizing, AI-powered analysis
+- 🥁 **[Ink Beat Maker](https://github.com/Dharit13/ink-ai-hack-playground-ink-beat-maker)** - A drawable drum machine interface in TypeScript
+- 🛰️ **[omni-mcp](https://github.com/Dharit13/omni-mcp)** - Multimodal MCP server — auto-routes to vision, audio, or text models on local Mac M-series
+- 🏘️ **[Neighborhood Score](https://github.com/Dharit13/neighborhood-score)** - Scores 125+ Bangalore neighborhoods across 17 livability dimensions
+- 🦞 **[OpenClaw](https://github.com/Dharit13/openclaw)** - Personal AI assistant, any OS, any platform — the lobster way
+- 🧪 **[SDG Hub](https://github.com/Dharit13/sdg_hub)** - Synthetic Data Generation toolkit for LLMs
+- 🔌 **[MCP Servers](https://github.com/Dharit13/servers)** - Model Context Protocol Servers
+- 🐍 **[MCP Python SDK](https://github.com/Dharit13/python-sdk)** - Official Python SDK for MCP servers and clients
+- 🤖 **[Pydantic AI](https://github.com/Dharit13/pydantic-ai)** - AI Agent Framework, the Pydantic way
+- 🚀 **[vLLM](https://github.com/Dharit13/vllm)** - High-throughput, memory-efficient inference engine for LLMs
+
+### Data Science & ML
+
 - 🚲 **[Bike Sharing Prediction](https://github.com/Dharit13/Bike-Sharing-Prediction-on-Weather-Data)** - ML predictions on weather data
 - 🏠 **[Freddie Mac Loan Data](https://github.com/Dharit13/Freddie-Mac-Single-Family-Loan-Data-)** - Single family loan analysis
+- 🛒 **[Market Basket Analysis](https://github.com/Dharit13/Market_basket_Analysis)** - Association rule mining on transaction data
+- 💹 **[Fixed Income Trading](https://github.com/Dharit13/Fixed-Income-Trading-Strategies)** - Fixed income trading strategies
+- 📊 **[Store Item Demand Forecasting](https://github.com/Dharit13/Kaggle-Store-Item-Demand-Forecasting-Challenge)** - Kaggle demand forecasting challenge
+- ⚡ **[Energy Consumption IoT](https://github.com/Dharit13/Evaluation-of-Energy-Consumption-in-Commercial-Households-from-IOT-Sensors-)** - Evaluating energy consumption from IoT sensors
+- 🧠 **[Deep Learning CNN](https://github.com/Dharit13/DeepLearning-using_Tensorflow_Keras_CNN)** - Deep learning with TensorFlow, Keras & CNN
+- 🔫 **[Gun Violence Viz](https://github.com/Dharit13/Data_visualization-Gun_Violence)** - Data visualization on gun violence
+- 📈 **[Tableau & QlikSense](https://github.com/Dharit13/Visualization--Tableau-QlikSense-)** - Dashboard visualizations
+
+### Other
+
+- 🛍️ **[Online Shopping DB](https://github.com/Dharit13/OnlineShoppingwebsite_Database_Design)** - E-commerce database design in PL/pgSQL
+- 🏢 **[HR Operations Manager](https://github.com/Dharit13/JAVA-SWING-HR_Operation_Manager)** - Java Swing HR management app
+- 🏗️ **[Retail Data Warehouse](https://github.com/Dharit13/Retail-_Data_Warehouse)** - Retail data warehouse design
+
+## Open Source Contributions
+
+Actively contributing to:
+- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) — MCP Python SDK
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — MCP Servers
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) — LLM inference engine
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) — AI Agent Framework
 
 ## GitHub Activity
 
