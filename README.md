@@ -48,7 +48,7 @@
 <summary>Random Facts</summary>
 
 - Senior Data Scientist who also ships apps for fun
-- Powered by Boston coffee
+- Powered by Dunkin' Donuts
 - Working from home enthusiast
 - Believes the best way to learn is to build
 
