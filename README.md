@@ -65,9 +65,9 @@ Actively contributing to:
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) — LLM inference engine
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) — AI Agent Framework
 
-## GitHub Activity
+## Recent Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/Dharit13)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharit13&theme=tokyonight&hide_border=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api?username=Dharit13&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=false" width="49%" />
 
 ## What I'm Doing
 
