@@ -62,10 +62,8 @@ Actively contributing to:
 
 ## What I'm Doing
 
-- **Data Science @ Red Hat** - ML pipelines, predictive modeling, real-world impact
-- **Quant finance** - Algorithmic trading strategies in Python
-- **MCP servers** - Making AI agents talk to hardware
-- **Vibe coding** - Drum machines, interactive tools, things that are fun
+- **Agentic AI @ Red Hat**
+- **Mentoring XC-475 @ BU Spark!**
 
 ## Connect
 
