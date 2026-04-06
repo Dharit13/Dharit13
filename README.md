@@ -65,15 +65,7 @@ Actively contributing to:
 - **Agentic AI @ Red Hat**
 - **Mentoring XC-475 @ BU Spark!**
 
-<details>
-<summary>Random Facts</summary>
-
-- Senior Data Scientist who also ships apps for fun
-- Powered by Dunkin' Donuts
-- Working from home enthusiast
-- Believes the best way to learn is to build
-
-</details>
+*In free time — running, hiking, or vibe coding.*
 
 ---
 
