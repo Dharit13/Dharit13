@@ -65,13 +65,6 @@ Actively contributing to:
 - **Agentic AI @ Red Hat**
 - **Mentoring XC-475 @ BU Spark!**
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/-Dharit%20Shah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharit-shah-22032959/)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dharit13)
-
----
-
 <details>
 <summary>Random Facts</summary>
 
@@ -81,3 +74,10 @@ Actively contributing to:
 - Believes the best way to learn is to build
 
 </details>
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Dharit%20Shah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharit-shah-22032959/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dharit13)
